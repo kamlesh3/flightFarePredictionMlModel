@@ -16,3 +16,17 @@ six
 threadpoolctl
 Werkzeug
 zipp
+matplotlib.pyplot
+seaborn
+chart_studio
+plotly
+cufflinks
+go_offline
+download_plotlyjs
+init_notebook_mode
+plot
+iplot
+train_test_split
+RandomForestRegressor
+metrics
+pickle
